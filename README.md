@@ -1,1 +1,4 @@
 # Learning-Resources
+
+## Fundamentals: 
+- [ ] dasda
